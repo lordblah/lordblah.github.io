@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#MoonSun{
+	width: 768px; 
+	height: 755px;
+	background-image: url("MoonOrSun.png");
+	text-align: center;
+}
+#JungAstroClock{
+	width: 510px; 
+	height: 510px;
+	background-image: url("JungAstroClock.png");
+	text-align: center;
+}
+#PiscesClock{
+	width: 229px; 
+	height: 222px;
+	background-image: url("PiscesClock.png");
+	text-align: center;
+}
+
+#Aquarius{
+	width: 471px; 
+	height: 357px;
+	background-image: url("Aquarius.jpg");
+	text-align: center;
+}
+
+#Capricorn{
+	width: 500px; 
+	height: 363px;
+	background-image: url("Capricorn.jpg");
+	text-align: center;
+}
+
+#Sagittarius{
+	width: 300px; 
+	height: 293px;
+	background-image: url("Sagittarius.jpg");
+	text-align: center;
+}
+
+#LibraScorpio{
+	width: 440px; 
+	height: 248px;
+	background-image: url("LibraScorpio.png");
+	text-align: center;
+}
+
+#Virgo{
+	width: 330px; 
+	height: 419px;
+	background-image: url("Virgo.png");
+	text-align: center;
+}
+
+#Leo{
+	width: 234px; 
+	height: 269px;
+	background-image: url("Leo.jpg");
+	text-align: center;
+}
+
+#Cancer{
+	width: 200px; 
+	height: 200px;
+	background-image: url("Cancer.png");
+	text-align: center;
+}
+
+#Gemini{
+	width: 256px; 
+	height: 256px;
+	background-image: url("Gemini.png");
+	text-align: center;
+}
+
+#Taurus{
+	width: 289px; 
+	height: 239px;
+	background-image: url("Taurus.png");
+	text-align: center;
+}
