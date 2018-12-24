@@ -55,8 +55,8 @@ progress[value]::-webkit-progress-bar {
 }
 
 #MoonSun{
-	width: 180px; 
-	height: 180px;
+	width: 380px; 
+	height: 380px;
 	background-image: url("chart1.PNG");
 	text-align: center;
 }
