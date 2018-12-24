@@ -54,16 +54,16 @@ progress[value]::-webkit-progress-bar {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
 }
 
-#MoonSun{
+#chart1{
 	width: 380px; 
 	height: 380px;
 	background-image: url("chart1.PNG");
 	text-align: center;
 }
 
-#Taurus{
+#chart2{
 	width: 289px; 
 	height: 239px;
-	background-image: url("Taurus.png");
+	background-image: url("chart2.PNG");
 	text-align: center;
 }
