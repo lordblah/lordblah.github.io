@@ -1,0 +1,157 @@
+{
+  "firstname": "Jonathan",
+  "lastname": "Hernandez",
+  "contact": {
+    "email": "jhernandez86@student.rccd.edu",
+    "phone": "(951)413-4219",
+    "website": "https://lordblah.github.io/",
+    "linkedin": "www.linkedin.com/in/jonathan-hernandez-mv",
+    "github": "https://github.com/lordblah"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "Python",
+          "Java",
+          "C++",
+          "Lua",
+          "PHP"
+        ]
+      },
+      {
+        "type": "Web Frameworks",
+        "items": [
+          "Larval",
+          "Apache"
+        ]
+      },
+      {
+        "type": "Databases",
+        "items": [
+          "SQL"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git",
+          "PowerShell",
+          "Windows Server",
+          "PuTTY",
+          "Excel"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Game Development",
+          "Computational Physics",
+          "Cyber Security"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "cs50Game-development",
+        "tagline": "[cs50Game-development-](https://github.com/lordblah/cs50Game-development-)",
+        "description": [
+          "Development of 2D games in Lua such as Mario,Space Invaders and Angry Bird."
+        ],
+        "technology_used": {
+          "tools": [
+            "Lua",
+            "LÖVE 2D"
+          ]
+        }
+      },
+      {
+        "project_name": "Computational Physics",
+        "tagline": "[lordblah/computational-physics](https://github.com/lordblah/computational-physics/)",
+        "description": [
+          "This project will be a mixture of computational physics programs "
+        ],
+        "technology_used": {
+          "tools": [
+            "Python",
+            "Numpy ",
+            " IPython Notebook"
+          ]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed a QT game, which I call Hippy Morty game based on Rick and Morty, which is a top-down shooter game, destroying Hippy Morty’s on s tank.",
+        "technology_used": {
+          "tools": [
+            "C++",
+            "QT"
+          ]
+        }
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Exception Management  Team Associate",
+        "organization": "Wayfair",
+        "location": "Perris, CA",
+        "from": "February 2019",
+        "to": "June 2019",
+        "details": [
+          "Wrote an excel file to connect to their database, which identifies items placed in wrong areas of warehouse Floor"
+        ],
+        "technology_used": {
+          "tools": [
+            "Excel",
+            "Sql",
+            "Windows Server"
+          ]
+        }
+      }
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Southern California Edison STEM Scholarship",
+      "Air Force Cyber Camp and Coding Olympics "
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Associate of Science",
+        "major": "Mathematics and Computer Science",
+        "institution": "Moreno Valley College",
+        "graduation_year": 2020
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "CompTIA Network+(In progress)"
+    },
+    {
+      "name": "Discrete Structures"
+    },
+    {
+      "name": "C++ Programming: Objects"
+    },
+    {
+      "name": "Java Programming:Objects"
+    }
+  ],
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+  }
+}
